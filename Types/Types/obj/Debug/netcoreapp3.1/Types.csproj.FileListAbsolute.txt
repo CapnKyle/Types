@@ -1,0 +1,11 @@
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.csprojAssemblyReference.cache
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfoInputs.cache
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfo.cs
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.exe
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.deps.json
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.json
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.dev.json
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.dll
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.pdb
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.dll
+C:\Users\kylew\Documents\IT 242 (class)\Book1\Ch2\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.pdb
